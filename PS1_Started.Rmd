@@ -1,7 +1,6 @@
 ---
 title: 'Problem Set 1:Getting Started Key'
 author: "Claire Duquennois"
-date: "6/5/2020"
 output:
   html_document:
     number_sections: true
@@ -18,7 +17,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 
-In additions, to the instuctions given on the problem set, you may find the "GitHub instructions" course document helpful.
+In additions, to the instructions given on the problem set, you may find the "GitHub instructions" course document helpful.
 
 # Preliminary: Set up your GitHub and Git. 
 
